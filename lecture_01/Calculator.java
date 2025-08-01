@@ -7,5 +7,7 @@ class Calculator{
         int a = sc.nextInt();
         System.out.println("Enter second number:");
         int b = sc.nextInt();
+        int sum = a + b;
+        System.out.println(sum);
     }
 }
